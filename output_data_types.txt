@@ -1,6 +1,7 @@
 
 
 Fichier: 2017-05-12_3_6C-80per_3_6C_CH1.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -12,8 +13,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_3_6C-80per_3_6C_CH2.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -25,8 +30,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_3_6C-80per_3_6C_CH3.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -38,8 +47,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_4C-80per_4C_CH5.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -51,8 +64,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_4C-80per_4C_CH6.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -64,8 +81,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_4_4C-80per_4_4C_CH7.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -77,8 +98,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_4_8C-80per_4_8C_CH10.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -90,8 +115,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_4_8C-80per_4_8C_CH9.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -103,8 +132,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_5_4C-80per_5_4C_CH11.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -116,8 +149,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-05-12_5_4C-80per_5_4C_CH12.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -129,8 +166,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-06-30_4_8C-80per_4_8C_CH4.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -142,8 +183,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-06-30_4_8C-80per_4_8C_CH7.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -155,8 +200,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2017-06-30_4_8C-80per_4_8C_CH8.csv
+Types de données :
 Data_Point               int64
 Cycle_Index            float64
 Current                float64
@@ -169,7 +218,11 @@ dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
 
+Aucune valeur manquante dans les colonnes.
+
+
 Fichier: 2018-04-12_4_8C_80per_4_8C_newstructure_CH1.csv
+Types de données :
 Data_Point               int64
 Cycle_Index              int64
 Current                float64
@@ -181,8 +234,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2018-04-12_4_8C_80per_4_8C_newstructure_CH17.csv
+Types de données :
 Data_Point               int64
 Cycle_Index              int64
 Current                float64
@@ -194,8 +251,12 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
+
 
 Fichier: 2018-04-12_4_8C_80per_4_8C_newstructure_CH25.csv
+Types de données :
 Data_Point               int64
 Cycle_Index              int64
 Current                float64
@@ -208,7 +269,11 @@ dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
 
+Aucune valeur manquante dans les colonnes.
+
+
 Fichier: 2018-04-12_4_8C_80per_4_8C_newstructure_CH9.csv
+Types de données :
 Data_Point               int64
 Cycle_Index              int64
 Current                float64
@@ -220,3 +285,5 @@ Discharge_Energy       float64
 dV/dt                  float64
 Internal_Resistance    float64
 Temperature            float64
+
+Aucune valeur manquante dans les colonnes.
