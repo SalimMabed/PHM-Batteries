@@ -29,7 +29,7 @@ for y in range(0, max(counts) + 20, 20):
 # Ajouter des labels et un titre
 plt.xlabel('Année')
 plt.ylabel('Nombre de publications')
-plt.title('Nombre de publications par année')
+
 plt.xticks(rotation=45)
 plt.tight_layout()
 
